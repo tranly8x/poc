@@ -31,7 +31,7 @@ you'll need Java 11 and Maven 3.8.1 on your machine to run. The commands to clon
 
 Clone:
 ```shell script
-git clone https://github.com/Vinicius-92/order-api.git
+git clone https://github.com/tranly8x/poc.git
 ```
 
 Create a docker database:
